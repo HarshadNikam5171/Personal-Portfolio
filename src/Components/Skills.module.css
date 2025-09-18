@@ -1,0 +1,23 @@
+.skills {
+  padding: 50px 20px;
+  background: #fff;
+  text-align: center;
+}
+
+.skills h2 {
+  margin-bottom: 20px;
+}
+
+.skillList {
+  list-style: none;
+  padding: 0;
+}
+
+.skillList li {
+  display: inline-block;
+  margin: 10px 15px;
+  padding: 8px 15px;
+  background: #e0f7fa;
+  border-radius: 8px;
+  font-weight: bold;
+}
